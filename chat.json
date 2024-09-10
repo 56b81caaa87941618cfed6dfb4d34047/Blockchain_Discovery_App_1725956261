@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hey There' button to be positioned on the screen?\", \"option1\": \"Top of the sidebar\", \"option2\": \"Bottom of the sidebar\"}, {\"question 2\": \"What color scheme do you prefer for the 'Hey There' button?\", \"option1\": \"Bright blue with white text\", \"option2\": \"Bright green with white text\"}], \"input_token_count\": 442, \"output_token_count\": 93, \"time_taken\": \"0:00:01.788860\"}",
+        "message_id": "guest10092024082300",
+        "timestamp": "10092024082325",
+        "component_file_name": "simple_footer_component_1725956266",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I will add a button that says \"hey there.\"",
         "message_id": "guest10092024082300",
