@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hey There' button to be positioned on the app screen?\", \"option1\": \"Top of the screen\", \"option2\": \"Bottom of the screen\"}, {\"question 2\": \"What color would you like the 'Hey There' button to be?\", \"option1\": \"Blue\", \"option2\": \"Green\"}], \"input_token_count\": 317, \"output_token_count\": 86, \"time_taken\": \"0:00:02.153137\"}",
+        "message_id": "guest10092024082111",
+        "timestamp": "10092024082126",
+        "component_file_name": "simple_header_component_1725956266",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I'm adding a button that says \"Hey There.\"",
         "message_id": "guest10092024082111",
