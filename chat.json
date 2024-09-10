@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_acknowledge",
+        "content": "Sure, I will add a button that says \"hey there.\"",
+        "message_id": "guest10092024082300",
+        "timestamp": "10092024082302",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a button that says hey there",
         "message_id": "guest10092024082300",
