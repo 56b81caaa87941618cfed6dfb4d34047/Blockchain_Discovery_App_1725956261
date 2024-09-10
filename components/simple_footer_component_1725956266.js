@@ -23,6 +23,13 @@ INSTRUCTION: Both of these lines are center aligned.
 
         <!-- Main Content -->
         <div class="flex-1">
+            <div class="p-4">
+                <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+                    Hey There
+                </button>
+            </div>
+        <!-- Main Content -->
+        <div class="flex-1">
     <footer id="footer-section" class="flex-1 bg-white dark:bg-gray-800">
         <div id="footer-container" class="max-w-screen-xl p-4 py-6 mx-auto lg:py-16 md:p-8 lg:p-10">
             <hr id="footer-divider" class="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8">
