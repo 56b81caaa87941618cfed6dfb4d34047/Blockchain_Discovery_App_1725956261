@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What style do you prefer for the navbar (e.g., horizontal, vertical)?\", \"option1\": \"Horizontal navbar\", \"option2\": \"Vertical navbar\"}, {\"question 2\": \"Would you like any specific colors or theme for the navbar?\", \"option1\": \"Yes, I have a specific color scheme in mind\", \"option2\": \"No, use the default color scheme\"}], \"input_token_count\": 507, \"output_token_count\": 94, \"time_taken\": \"0:00:02.140007\"}",
+        "message_id": "guest10092024084809",
+        "timestamp": "10092024084823",
+        "component_file_name": "simple_hero_component_1725956266",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a navbar with navlinks home, about and contact",
         "message_id": "guest10092024084809",
