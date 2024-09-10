@@ -8,6 +8,12 @@
         "div_id": ""
     },
     {
+        "role": "user",
+        "content": "add a sidebar with navlinks home, about and contact",
+        "timestamp": "10092024082217",
+        "message_id": "guest10092024082216"
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a button that says 'Hey There'\", \"checked\": true}, {\"feature\": \"Include a tooltip that explains the button's purpose\", \"checked\": false}, {\"feature\": \"Change button color on hover\", \"checked\": false}, {\"feature\": \"Add a confirmation dialog when the button is clicked\", \"checked\": false}, {\"feature\": \"Display a success message after button click\", \"checked\": false}], \"input_token_count\": 271, \"output_token_count\": 99, \"time_taken\": \"0:00:01.263168\"}",
         "timestamp": "10092024082133",
