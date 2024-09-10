@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a button that says 'Hey There'\", \"checked\": true}, {\"feature\": \"Include a tooltip that explains the button's purpose\", \"checked\": false}, {\"feature\": \"Change button color on hover\", \"checked\": false}, {\"feature\": \"Add a confirmation dialog when the button is clicked\", \"checked\": false}, {\"feature\": \"Display a success message after button click\", \"checked\": false}], \"input_token_count\": 271, \"output_token_count\": 99, \"time_taken\": \"0:00:01.263168\"}",
+        "message_id": "guest10092024082111",
+        "timestamp": "10092024082133",
+        "component_file_name": "simple_header_component_1725956266",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hey There' button to be positioned on the app screen?\", \"option1\": \"Top of the screen\", \"option2\": \"Bottom of the screen\"}, {\"question 2\": \"What color would you like the 'Hey There' button to be?\", \"option1\": \"Blue\", \"option2\": \"Green\"}], \"input_token_count\": 317, \"output_token_count\": 86, \"time_taken\": \"0:00:02.153137\"}",
         "message_id": "guest10092024082111",
