@@ -10,5 +10,9 @@
     {
         "level": 1,
         "task_description": "This is the user's previous chat history with this AI:\nadd a button that says hello world\nUser: add a sidebar with navlinks home, about and contact\nAI: Sure, I'm adding a button that says \"Hey There.\"\nUser: add a button that says Hey There\nAI: Okay, I'll add a button that says 'Hello World'.\n\nThis is the user's current request of changes to be made:\nadd a sidebar with navlinks home, about and contact"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\nThe user requested to add a button that says 'Hello World' to their app. In response, the AI asked two questions to gather more details: the first question was about the positioning of the button, with options to place it either at the top or bottom of the main screen. The second question inquired about the desired color of the button, offering bright blue or green with white text as choices. The AI acknowledged the user's request and confirmed it would incorporate the 'Hello World' button into the app.\nAI: Okay, I'll add a sidebar with navlinks for home, about, and contact.\nUser: add a sidebar with navlinks home, about and contact\nAI: Sure, I'm adding a button that says \"Hey There.\"\nUser: add a button that says Hey There\n\nThis is the user's current request of changes to be made:\nadd a button that says hey there"
     }
 ]
