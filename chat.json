@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hello World' button to be positioned within the app?\", \"option1\": \"At the top of the main screen\", \"option2\": \"At the bottom of the main screen\"}, {\"question 2\": \"What color do you envision for the 'Hello World' button?\", \"option1\": \"Bright blue\", \"option2\": \"Green with white text\"}], \"input_token_count\": 293, \"output_token_count\": 94, \"time_taken\": \"0:00:01.865937\"}",
+        "message_id": "guest10092024081809",
+        "timestamp": "10092024081826",
+        "component_file_name": "simple_header_component_1725956266",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Okay, I'll add a button that says 'Hello World'.",
         "message_id": "guest10092024081809",
