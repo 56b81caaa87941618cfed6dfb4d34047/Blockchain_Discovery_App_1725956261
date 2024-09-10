@@ -88,7 +88,7 @@ INSTRUCTION: Summary: The header component is a nav bar on top of the page -- it
                     </ul>
                     <div class="flex-1 flex justify-end mt-4 lg:mt-0">
                         <button class="bg-purple-700 hover:bg-purple-600 text-white font-bold py-2 px-6 rounded-full shadow-lg transition-colors duration-300">
-                            Hello World
+                            Hey There
                         </button>
                     </div>
                 </div>
