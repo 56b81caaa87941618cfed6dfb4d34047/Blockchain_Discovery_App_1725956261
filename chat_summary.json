@@ -8,6 +8,57 @@
         "div_id": ""
     },
     {
+        "role": "user",
+        "content": "add a button that says hello world",
+        "message_id": "guest10092024084442",
+        "timestamp": "10092024084443",
+        "component_file_name": "simple_hero_component_1725956266",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "summary",
+        "content": "The user requested the AI assistant to add a button that says \"Hey There.\" In response, the AI confirmed it was adding the button and also provided a list of potential additional features, which included options for a tooltip, hover color change, confirmation dialog, and success message related to the \"Hey There\" button. The user was then posed two questions regarding the positioning and color of the button, with options for the top or bottom of the screen, and blue or green coloring. Furthermore, the user requested a second button labeled \"Hello World,\" to which the AI similarly responded affirmatively. It presented another list of additional features for this button, including a floating action button for alerts, a search bar for news, notification bell, and a dropdown menu for categories. The user was again asked two questions to decide the position and color of the \"Hello World\" button, with different options. The AI acknowledged both requests effectively during the conversation.",
+        "timestamp": "10092024084443",
+        "message_id": "guest10092024084442"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add 'Hey There' button\", \"checked\": true}, {\"feature\": \"Include a dropdown for user preferences\", \"checked\": false}, {\"feature\": \"Add a notification banner for real-time updates\", \"checked\": false}, {\"feature\": \"Implement a search bar for quick access to blockchain information\", \"checked\": false}, {\"feature\": \"Create a user profile section to save favorite topics\", \"checked\": false}], \"input_token_count\": 396, \"output_token_count\": 100, \"time_taken\": \"0:00:01.247630\"}",
+        "message_id": "guest10092024082300",
+        "timestamp": "10092024082333",
+        "component_file_name": "simple_footer_component_1725956266",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hey There' button to be positioned on the screen?\", \"option1\": \"Top of the sidebar\", \"option2\": \"Bottom of the sidebar\"}, {\"question 2\": \"What color scheme do you prefer for the 'Hey There' button?\", \"option1\": \"Bright blue with white text\", \"option2\": \"Bright green with white text\"}], \"input_token_count\": 442, \"output_token_count\": 93, \"time_taken\": \"0:00:01.788860\"}",
+        "message_id": "guest10092024082300",
+        "timestamp": "10092024082325",
+        "component_file_name": "simple_footer_component_1725956266",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Sure, I will add a button that says \"hey there.\"",
+        "message_id": "guest10092024082300",
+        "timestamp": "10092024082302",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add a button that says hey there",
+        "message_id": "guest10092024082300",
+        "timestamp": "10092024082301",
+        "component_file_name": "simple_footer_component_1725956266",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a sidebar with navigation links (Home, About, Contact)\", \"checked\": true}, {\"feature\": \"Include a search bar within the sidebar\", \"checked\": false}, {\"feature\": \"Add icons next to the navigation links\", \"checked\": false}, {\"feature\": \"Implement a collapsible sidebar feature\", \"checked\": false}, {\"feature\": \"Highlight the active navigation link\", \"checked\": true}], \"input_token_count\": 301, \"output_token_count\": 98, \"time_taken\": \"0:00:01.307034\"}",
         "message_id": "guest10092024082216",
@@ -15,12 +66,6 @@
         "component_file_name": "simple_footer_component_1725956266",
         "div_id": "",
         "div_action": ""
-    },
-    {
-        "role": "summary",
-        "content": "The user requested to add a button that says 'Hello World' to their app. In response, the AI asked two questions to gather more details: the first question was about the positioning of the button, with options to place it either at the top or bottom of the main screen. The second question inquired about the desired color of the button, offering bright blue or green with white text as choices. The AI acknowledged the user's request and confirmed it would incorporate the 'Hello World' button into the app.",
-        "timestamp": "10092024082238",
-        "message_id": "guest10092024082216"
     },
     {
         "role": "chat_qna",
@@ -46,51 +91,6 @@
         "message_id": "guest10092024082216",
         "timestamp": "10092024082217",
         "component_file_name": "simple_footer_component_1725956266",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a button that says 'Hey There'\", \"checked\": true}, {\"feature\": \"Include a tooltip that explains the button's purpose\", \"checked\": false}, {\"feature\": \"Change button color on hover\", \"checked\": false}, {\"feature\": \"Add a confirmation dialog when the button is clicked\", \"checked\": false}, {\"feature\": \"Display a success message after button click\", \"checked\": false}], \"input_token_count\": 271, \"output_token_count\": 99, \"time_taken\": \"0:00:01.263168\"}",
-        "message_id": "guest10092024082111",
-        "timestamp": "10092024082133",
-        "component_file_name": "simple_header_component_1725956266",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hey There' button to be positioned on the app screen?\", \"option1\": \"Top of the screen\", \"option2\": \"Bottom of the screen\"}, {\"question 2\": \"What color would you like the 'Hey There' button to be?\", \"option1\": \"Blue\", \"option2\": \"Green\"}], \"input_token_count\": 317, \"output_token_count\": 86, \"time_taken\": \"0:00:02.153137\"}",
-        "message_id": "guest10092024082111",
-        "timestamp": "10092024082126",
-        "component_file_name": "simple_header_component_1725956266",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Sure, I'm adding a button that says \"Hey There.\"",
-        "message_id": "guest10092024082111",
-        "timestamp": "10092024082113",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
-        "content": "add a button that says Hey There",
-        "message_id": "guest10092024082111",
-        "timestamp": "10092024082112",
-        "component_file_name": "simple_header_component_1725956266",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a button that says 'Hello World'\", \"checked\": true}, {\"feature\": \"Create a floating action button for new blockchain alerts\", \"checked\": false}, {\"feature\": \"Implement a search bar for blockchain news\", \"checked\": false}, {\"feature\": \"Add notification bell for new updates\", \"checked\": false}, {\"feature\": \"Include a dropdown menu for different blockchain categories\", \"checked\": false}], \"input_token_count\": 247, \"output_token_count\": 99, \"time_taken\": \"0:00:01.242639\"}",
-        "message_id": "guest10092024081809",
-        "timestamp": "10092024081912",
-        "component_file_name": "simple_header_component_1725956266",
         "div_id": "",
         "div_action": ""
     }
