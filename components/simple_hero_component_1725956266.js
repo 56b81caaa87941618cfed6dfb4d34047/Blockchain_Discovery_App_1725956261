@@ -22,6 +22,11 @@ INSTRUCTION: - To the right: There is an image relevant to the app.
                     <div id="hero-button-2-container" class="flex">
                         <a id="hero-button-2" href="https://www.figma.com/community/file/1125744163617429490" class="flex-1 items-center justify-center w-full px-5 py-3 mb-2 mr-2 text-sm font-medium text-gray-900 bg-white border border-gray-200 rounded-lg sm:w-auto focus:outline-none hover:bg-gray-100 hover:text-blue-700 focus:z-10 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700">Learn More</a>
                     </div>
+                    <div id="hello-world-button-container" class="flex">
+                        <button id="hello-world-button" class="flex-1 items-center justify-center w-full px-5 py-3 mb-2 mr-2 text-sm font-medium text-white bg-blue-600 rounded-lg sm:w-auto hover:bg-blue-700 focus:outline-none focus:ring-4 focus:ring-blue-300">
+                            Hello World
+                        </button>
+                    </div>
                 </div>
             </div>
             <!-- Right section containing image -->
@@ -40,6 +45,15 @@ export default {
             expanded: false,
             tab: null
         };
+    },
+    methods: {
+        // Hello World button click handler
+        onHelloWorldClick() {
+            console.log("Hello World button clicked!");
+            // Add your logic here
+        }
+        // End of Hello World button click handler
     }
+};
 };
 </script>
