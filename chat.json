@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hello World' button to be positioned on the screen?\", \"option1\": \"Top of the screen\", \"option2\": \"Bottom of the screen\"}, {\"question 2\": \"What color would you prefer for the 'Hello World' button?\", \"option1\": \"Red\", \"option2\": \"Blue\"}], \"input_token_count\": 539, \"output_token_count\": 84, \"time_taken\": \"0:00:02.070458\"}",
+        "message_id": "guest10092024084442",
+        "timestamp": "10092024084459",
+        "component_file_name": "simple_hero_component_1725956266",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I'll add a button that says 'Hello World'.",
         "message_id": "guest10092024084442",
