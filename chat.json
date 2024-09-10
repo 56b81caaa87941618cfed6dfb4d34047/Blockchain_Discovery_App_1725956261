@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Button labeled 'Hello World'\", \"checked\": true}, {\"feature\": \"Tooltip for 'Hello World' button\", \"checked\": false}, {\"feature\": \"Hover color change for 'Hello World' button\", \"checked\": false}, {\"feature\": \"Confirmation dialog on 'Hello World' button click\", \"checked\": false}, {\"feature\": \"Success message on 'Hello World' button action\", \"checked\": false}, {\"feature\": \"Positioning options for 'Hello World' button (top/bottom)\", \"checked\": false}], \"input_token_count\": 493, \"output_token_count\": 125, \"time_taken\": \"0:00:01.440148\"}",
+        "message_id": "guest10092024084442",
+        "timestamp": "10092024084507",
+        "component_file_name": "simple_hero_component_1725956266",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hello World' button to be positioned on the screen?\", \"option1\": \"Top of the screen\", \"option2\": \"Bottom of the screen\"}, {\"question 2\": \"What color would you prefer for the 'Hello World' button?\", \"option1\": \"Red\", \"option2\": \"Blue\"}], \"input_token_count\": 539, \"output_token_count\": 84, \"time_taken\": \"0:00:02.070458\"}",
         "message_id": "guest10092024084442",
